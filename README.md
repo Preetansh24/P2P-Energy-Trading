@@ -52,78 +52,78 @@ It enables virtual producers, consumers, and storage units to **trade renewable 
 
 ## 🧩 System Architecture
 
-##+------------------------+
-##| EnergyTradingPlatform|
-##+-----------+------------+
-##|
-##+--> EnergyGraph (network topology)
-##+--> TransactionManager
-##+--> MarketAnalytics
-##+--> TradeSuggestionEngine (AI)
-##+--> HTMLGUIGenerator (frontend)
++------------------------+
+| EnergyTradingPlatform|
++-----------+------------+
+|
++--> EnergyGraph (network topology)
++--> TransactionManager
++--> MarketAnalytics
++--> TradeSuggestionEngine (AI)
++--> HTMLGUIGenerator (frontend)
 
-##Example Use Case
+🧮 Example Use Case
 
-##Add producers, consumers, and storage nodes.
+Add producers, consumers, and storage nodes.
 
-##Connect them to form a decentralized grid.
+Connect them to form a decentralized grid.
 
-#3Execute trades or generate AI-based suggestions.
+Execute trades or generate AI-based suggestions.
 
-##Monitor:
+Monitor:
 
-##Real-time prices, volumes, and trends
+Real-time prices, volumes, and trends
 
-##Animated energy flow through network
+Animated energy flow through network
 
-##Transaction records and analytics
+Transaction records and analytics
 
-##💡 Technical Highlights
-##Module	Description
-##EnergyGraph	Handles user connections and network traversal
-##TransactionManager	Manages trade records, fees, and analytics
-##TradeSuggestionEngine	AI engine that finds optimal trades
-##MarketAnalytics	Computes price, volatility, and liquidity
-##HTMLGUIGenerator	Creates the interactive dashboard
-##🧠 Smart Trade Logic
+💡 Technical Highlights
+Module	Description
+EnergyGraph	Handles user connections and network traversal
+TransactionManager	Manages trade records, fees, and analytics
+TradeSuggestionEngine	AI engine that finds optimal trades
+MarketAnalytics	Computes price, volatility, and liquidity
+HTMLGUIGenerator	Creates the interactive dashboard
+🧠 Smart Trade Logic
 
-##Match Score Calculation:
+Match Score Calculation:
 
-##score = 0.4*(energyMatch) + 0.3*(balanceAdequacy) + 0.2*(pathProximity) + 0.1*(priceRange)
+score = 0.4*(energyMatch) + 0.3*(balanceAdequacy) + 0.2*(pathProximity) + 0.1*(priceRange)
 
 
-##Each trade suggestion includes:
+Each trade suggestion includes:
 
-##Suggested energy volume
+Suggested energy volume
 
-##Price range
+Price range
 
-##Optimal path
+Optimal path
 
-##Reason for recommendation
+Reason for recommendation
 
-##🎨 Dashboard Overview
+🎨 Dashboard Overview
 
-##✨ Tabs Available
+✨ Tabs Available
 
-##📊 Dashboard: Real-time KPIs & analytics
+📊 Dashboard: Real-time KPIs & analytics
 
-##⚡ Execute Trade: Custom trade simulation
+⚡ Execute Trade: Custom trade simulation
 
-##💡 Smart Suggestions: AI-based recommendations
+💡 Smart Suggestions: AI-based recommendations
 
-##👥 Network Nodes: Active producers & consumers
+👥 Network Nodes: Active producers & consumers
 
-##📈 Transaction Ledger: Detailed trade history
+📈 Transaction Ledger: Detailed trade history
 
-##🌐 Network Topology: Animated graph visualization
+🌐 Network Topology: Animated graph visualization
 
-##🛠️ Future Enhancements
+🛠️ Future Enhancements
 
-##Integration with blockchain smart contracts
+Integration with blockchain smart contracts
 
-##WebSocket real-time backend for multi-user simulation
+WebSocket real-time backend for multi-user simulation
 
-##AI-powered price prediction and dynamic optimization
+AI-powered price prediction and dynamic optimization
 
-##Machine Learning forecasting for energy trends
+Machine Learning forecasting for energy trends
